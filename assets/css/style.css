@@ -46,6 +46,44 @@ right: -120px;
 }
 
 .sale-image {
-    padding-right: 0;
+   width: 100%;
+   padding-left: 0;
+   padding-right: 0;
+}
+.sale-item {
+    width: 100%;
     padding-left: 0;
+    padding-right: 0;
+}
+
+.sale-heading {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.wknd-deal {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.price-drop {
+    font-size: 10px;
+    text-transform: uppercase;
+    padding-top: 3px;
+}
+
+.wknd-deal1 {
+padding-top: 5px
+}
+
+.wknd-deal2 {
+padding-top: 5px
+}
+
+.new-price {
+    text-align: center;
+    color:chartreuse;
+    font-weight: 700;
+    background-color: darkolivegreen;
+     
 }
